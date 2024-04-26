@@ -1,0 +1,1001 @@
+noFID,lokasi,jenisHewan,jenisKelamin,jenisBreed,warna
+1,Huangshi,Caracal,Female,Guatemalan,Green
+2,Finspång,"Stork, saddle-billed",Male,Peruvian,Aquamarine
+3,Šentilj v Slov. Goricah,"Crane, sandhill",Female,Cherokee,Khaki
+4,Kortesjärvi,Steenbok,Female,Latin American Indian,Violet
+5,Jiangjia,Salmon pink bird eater tarantula,Male,Delaware,Pink
+6,Yaroslavl,Arctic hare,Male,Costa Rican,Orange
+7,Gardēz,Ringtail cat,Female,Colville,Red
+8,Casal Galego,Thomson's gazelle,Male,Indonesian,Green
+9,Gaozhou,African buffalo,Male,Guatemalan,Indigo
+10,Huolongmen,"Sheep, red",Female,Tlingit-Haida,Goldenrod
+11,Staritsa,Campo flicker,Female,Venezuelan,Orange
+12,Staraya Stanitsa,White rhinoceros,Male,Shoshone,Khaki
+13,New Orleans,American alligator,Male,Potawatomi,Maroon
+14,Kihurio,"Rhea, greater",Male,Comanche,Yellow
+15,Sosnovyy Bor,"Gull, swallow-tail",Male,South American,Red
+16,Takasaki,Manatee,Male,Puget Sound Salish,Green
+17,Santa Rosa,Civet cat,Female,Bolivian,Aquamarine
+18,Tapilon,"Squirrel, smith's bush",Female,Creek,Crimson
+19,Kobilje,Bird (unidentified),Male,Bolivian,Maroon
+20,Chiduo,Gemsbok,Female,Laotian,Green
+21,Laojie,Barking gecko,Male,Peruvian,Turquoise
+22,Wręczyca Wielka,"Wolf, common",Male,American Indian,Khaki
+23,Pocsi,Honey badger,Female,Venezuelan,Red
+24,Agpangi,"Wallaby, red-necked",Male,Paraguayan,Blue
+25,Isu,Bushpig,Male,Mexican,Khaki
+26,Santo Domingo,Defassa waterbuck,Male,South American,Goldenrod
+27,Pokrovskoye-Streshnëvo,"Chickadee, black-capped",Male,Cambodian,Yellow
+28,Pieniężno,"Lion, southern sea",Female,Asian Indian,Pink
+29,Ḩājī Khēl,"Lemur, ring-tailed",Male,Honduran,Goldenrod
+30,Winangun,Laughing kookaburra,Female,Tohono O'Odham,Orange
+31,Punat,Sockeye salmon,Female,Colville,Green
+32,Ciherang,"Deer, spotted",Male,White,Green
+33,Mbongawani,"Possum, common brushtail",Female,Peruvian,Blue
+34,Blimbing,Horned puffin,Female,Honduran,Orange
+35,Murowana Goślina,Red meerkat,Male,Nicaraguan,Goldenrod
+36,Atsipópoulon,Mountain duck,Male,Guatemalan,Red
+37,Tabu,Hippopotamus,Male,Ottawa,Turquoise
+38,Shushicë,Grison,Male,Pueblo,Yellow
+39,Norrtälje,"Dove, emerald-spotted wood",Male,Laotian,Indigo
+40,Agbani,White-bellied sea eagle,Female,Yuman,Maroon
+41,Nisí,"Crane, sandhill",Female,Puerto Rican,Mauv
+42,Guozhen,American beaver,Male,Delaware,Purple
+43,Xiayang,Buttermilk snake,Male,Costa Rican,Red
+44,Tha Mai,Common dolphin,Female,Venezuelan,Purple
+45,Karatau,Black-tailed prairie dog,Male,Ottawa,Teal
+46,Liuzuo,Herring gull,Female,Asian Indian,Orange
+47,Sharīfābād,Barasingha deer,Male,Native Hawaiian,Yellow
+48,Lishu,Baleen whale,Female,Venezuelan,Fuscia
+49,Kanḏay,African porcupine,Female,Comanche,Maroon
+50,Kolyvan’,"Cockatoo, red-tailed",Male,Samoan,Puce
+51,Balungkopi,"Thrasher, curve-billed",Female,Yuman,Goldenrod
+52,Pasiripis,Blue and yellow macaw,Female,Sioux,Khaki
+53,Dukuhpicung,Rose-ringed parakeet,Female,Iroquois,Red
+54,Yonghe,Knob-nosed goose,Female,Micronesian,Indigo
+55,Bājitpur,"Tortoise, galapagos",Male,Choctaw,Red
+56,Perre,Argalis,Male,Delaware,Purple
+57,Bājitpur,"Seal, northern elephant",Male,Polynesian,Crimson
+58,Myitkyina,"Sheep, stone",Male,Costa Rican,Turquoise
+59,Ramana,Red-tailed wambenger,Male,Peruvian,Red
+60,Périgueux,Gambel's quail,Male,Paraguayan,Fuscia
+61,Bariri,Brazilian tapir,Male,Malaysian,Blue
+62,Ebetsu,"Colobus, black and white",Female,Hmong,Fuscia
+63,Hamilton,"Wapiti, elk,",Male,Seminole,Red
+64,Radoboj,Desert kangaroo rat,Male,Cambodian,Blue
+65,Marseille,"Robin, white-throated",Male,Argentinian,Indigo
+66,Kegeyli Shahar,"Goose, cape barren",Female,Tohono O'Odham,Khaki
+67,Delareyville,"Dolphin, common",Female,Colville,Puce
+68,Majāz al Bāb,Common mynah,Male,Filipino,Teal
+69,Langsepan,"Deer, black-tailed",Female,Cheyenne,Red
+70,Tangxi,Puku,Male,Chippewa,Green
+71,Kampungladang,"Possum, golden brush-tailed",Female,Delaware,Puce
+72,Oklahoma City,Nyala,Female,Chippewa,Teal
+73,Guandu,Fringe-eared oryx,Female,Potawatomi,Teal
+74,Yangxunqiao,"Heron, green",Female,Salvadoran,Blue
+75,Cuispes,"Whale, killer",Male,Ottawa,Khaki
+76,Askersund,Red hartebeest,Female,Thai,Red
+77,Ihuari,Comb duck,Male,Thai,Mauv
+78,Löddeköpinge,"Wallaby, agile",Male,White,Violet
+79,Mogzon,Suricate,Female,Ottawa,Teal
+80,Kazanlŭk,Asian red fox,Female,Polynesian,Puce
+81,Sinchao,"Tortoise, indian star",Female,Polynesian,Yellow
+82,Bulu,"Flycatcher, tyrant",Male,American Indian and Alaska Native (AIAN),Indigo
+83,Mojoroto,Koala,Male,Navajo,Mauv
+84,Huanipaca,"Grouse, sage",Female,Bolivian,Green
+85,Langsepan,Common zorro,Male,Creek,Green
+86,Staraya Kulatka,"Otter, cape clawless",Female,Melanesian,Goldenrod
+87,Guataquí,"Heron, green",Female,Sioux,Indigo
+88,La Floresta,"Shrike, southern white-crowned",Male,Black or African American,Indigo
+89,Jangkungkusumo,"Grenadier, purple",Male,Polynesian,Green
+90,Manuel Cavazos Lerma,"Python, carpet",Female,Cuban,Pink
+91,San Pedro Jocopilas,Desert spiny lizard,Female,Thai,Turquoise
+92,New York City,"Wallaroo, common",Male,Spaniard,Green
+93,Realeza,"Pelican, great white",Female,Filipino,Teal
+94,Tapes,Campo flicker,Female,Honduran,Red
+95,Babiak,Oribi,Female,Chilean,Goldenrod
+96,Nora,Arctic hare,Male,Melanesian,Goldenrod
+97,Molde,"Colobus, black and white",Female,Argentinian,Puce
+98,Negotin,American bison,Female,Choctaw,Orange
+99,Nam Đàn,Ostrich,Female,Sri Lankan,Crimson
+100,Muaralabuh,Sockeye salmon,Female,Samoan,Fuscia
+101,Hezhi,Lesser flamingo,Male,Ottawa,Indigo
+102,Salaverry,Small-spotted genet,Female,Micronesian,Turquoise
+103,Akita Shi,"Robin, kalahari scrub",Female,Iroquois,Pink
+104,San Felipe,"Hawk, galapagos",Male,Guatemalan,Red
+105,Dzaoudzi,"Tern, royal",Female,Chilean,Crimson
+106,Damnoen Saduak,"Jaeger, long-tailed",Female,Thai,Pink
+107,Verkhnya Syrovatka,Least chipmunk,Male,Latin American Indian,Blue
+108,Owode,"Antechinus, brown",Male,Central American,Pink
+109,Rungkam,Barrows goldeneye,Female,Native Hawaiian and Other Pacific Islander (NHPI),Purple
+110,Touguinha,"Mockingbird, galapagos",Male,Panamanian,Goldenrod
+111,San Francisco,Praying mantis (unidentified),Female,Cuban,Goldenrod
+112,Araal,Bohor reedbuck,Female,Fijian,Fuscia
+113,Yanqul,"Lion, california sea",Male,Venezuelan,Khaki
+114,Antas,"Armadillo, giant",Female,Yakama,Khaki
+115,Piggotts,Southern tamandua,Female,Colville,Khaki
+116,Padurung,Yellow-billed hornbill,Female,Chilean,Goldenrod
+117,Masingbi,Grey mouse lemur,Female,Potawatomi,Orange
+118,Baćkowice,"Deer, roe",Male,Yakama,Violet
+119,Melita,Sugar glider,Male,American Indian and Alaska Native (AIAN),Goldenrod
+120,Bezhta,"Duck, comb",Male,Argentinian,Purple
+121,Oekuu,Jungle cat,Female,Pima,Blue
+122,Zarya,Hummingbird (unidentified),Male,American Indian and Alaska Native (AIAN),Indigo
+123,Tymoshivka,"Baboon, gelada",Male,Uruguayan,Indigo
+124,Lugui,Desert spiny lizard,Male,Asian Indian,Yellow
+125,Mirocin,Fairy penguin,Male,Menominee,Pink
+126,Phù Cát,"Dove, emerald-spotted wood",Male,Thai,Aquamarine
+127,Kraśnik,"Eagle, pallas's fish",Male,Alaskan Athabascan,Red
+128,Ueki,Pacific gull,Female,Iroquois,Purple
+129,Rude,"Crane, sarus",Female,Korean,Fuscia
+130,Springfield,"Zorro, azara's",Female,Pueblo,Maroon
+131,Mirebalais,Serval,Male,Creek,Green
+132,Idfu,"Snake, tiger",Male,Choctaw,Turquoise
+133,Concord,"Sloth, pale-throated three-toed",Female,Chamorro,Mauv
+134,Buena Vista,Yak,Male,South American,Teal
+135,Doljevac,Indian jackal,Male,Bolivian,Goldenrod
+136,La Molina,Warthog,Male,Cambodian,Pink
+137,Dodola,Black kite,Female,Chinese,Red
+138,Santo Antônio do Içá,"Stork, white-necked",Male,Tlingit-Haida,Fuscia
+139,Twante,"Wallaby, whip-tailed",Female,Pima,Orange
+140,Bang Bon,"Cormorant, great",Male,Colombian,Orange
+141,Hekou,Pied butcher bird,Female,Polynesian,Khaki
+142,Albrechtice,European beaver,Male,Cuban,Blue
+143,El Refugio,"Goose, cape barren",Female,Houma,Teal
+144,Nova Cruz,African snake (unidentified),Female,Fijian,Aquamarine
+145,Sel’tso,Steller sea lion,Male,Central American,Orange
+146,Krajan,Chital,Female,Kiowa,Indigo
+147,Vyshhorod,"Starling, greater blue-eared",Male,Cherokee,Purple
+148,Roseau,Giant heron,Female,Ute,Blue
+149,Boychinovtsi,"Cat, long-tailed spotted",Male,South American,Yellow
+150,Lubenec,Weeper capuchin,Male,Filipino,Puce
+151,Fantino,"Oystercatcher, blackish",Male,Sri Lankan,Puce
+152,Jelbuk,Tawny frogmouth,Male,Native Hawaiian and Other Pacific Islander (NHPI),Goldenrod
+153,Xuetian,"Chickadee, black-capped",Female,Paraguayan,Red
+154,Ouaoula,"Blackbird, red-winged",Male,Eskimo,Khaki
+155,Lagdo,"Eagle, white-bellied sea",Male,Aleut,Violet
+156,Wakiso,"Ox, musk",Female,Asian,Fuscia
+157,Vir,"Phascogale, brush-tailed",Female,Osage,Aquamarine
+158,Kawm Ḩamādah,Brown brocket,Female,Guamanian,Violet
+159,Tambopata,"Owl, snowy",Female,Ecuadorian,Indigo
+160,Cam Ranh,Brush-tailed rat kangaroo,Male,Vietnamese,Mauv
+161,Dushang,"Swan, black",Female,Choctaw,Teal
+162,Guwoterus,Malagasy ground boa,Female,Cree,Blue
+163,Sydney,"Goose, snow",Male,Ottawa,Mauv
+164,Bingfang,Southern elephant seal,Male,Polynesian,Red
+165,Jomda,Burchell's gonolek,Male,Navajo,Khaki
+166,Milicz,Bennett's wallaby,Male,Lumbee,Yellow
+167,Shar,"Egret, cattle",Female,Argentinian,Yellow
+168,Sumaré,White-bellied sea eagle,Male,Yuman,Aquamarine
+169,Hošťka,Harbor seal,Female,Tlingit-Haida,Mauv
+170,Hola Prystan’,Fat-tailed dunnart,Male,Puget Sound Salish,Mauv
+171,Mabalacat,Cook's tree boa,Male,Uruguayan,Blue
+172,Krebet,Radiated tortoise,Female,Ute,Turquoise
+173,Dalun,"Eagle, bateleur",Female,Taiwanese,Aquamarine
+174,Tyler,Red lava crab,Female,Samoan,Orange
+175,Cangzhou,Arboral spiny rat,Male,Paiute,Blue
+176,Samsan,"Gazelle, grant's",Female,Nicaraguan,Blue
+177,Mayakovski,"Stork, painted",Female,Guatemalan,Pink
+178,Węgry,"Fox, blue",Male,Latin American Indian,Aquamarine
+179,Buôn Trấp,"Stork, black-necked",Male,Nicaraguan,Blue
+180,Cagliari,Coke's hartebeest,Female,Latin American Indian,Pink
+181,Neiba,"Marshbird, brown and yellow",Female,Melanesian,Orange
+182,Costa de Rios Frios,Tayra,Female,Ecuadorian,Violet
+183,Kuala Terengganu,"Kingfisher, pied",Male,Yuman,Maroon
+184,Omaha,Ferruginous hawk,Male,Japanese,Crimson
+185,Lipa City,Lapwing (unidentified),Male,Blackfeet,Aquamarine
+186,Iława,"Fox, savanna",Male,White,Purple
+187,Wangcun,"Roller, lilac-breasted",Female,American Indian and Alaska Native (AIAN),Red
+188,Gorey,"Lapwing, southern",Male,Cherokee,Green
+189,Matiao,Gray langur,Female,Samoan,Turquoise
+190,Obuasi,"Iguana, common green",Female,Laotian,Violet
+191,Hŭngnam,"Possum, common brushtail",Female,Central American,Crimson
+192,La Curva,White-mantled colobus,Male,Aleut,Violet
+193,Ma‘bar,Desert spiny lizard,Female,Tongan,Yellow
+194,Cirateun,"Mongoose, small indian",Male,Blackfeet,Goldenrod
+195,Colonia Nicolich,Red howler monkey,Female,Hmong,Khaki
+196,Beit Jann,Netted rock dragon,Male,Chamorro,Red
+197,Leon Postigo,"Cockatoo, slender-billed",Male,Iroquois,Maroon
+198,Al Qardāḩah,"Langur, common",Male,Argentinian,Crimson
+199,Agnibilékrou,Black-fronted bulbul,Male,Chinese,Turquoise
+200,Pawa,European stork,Male,Melanesian,Goldenrod
+201,Lescar,"Glider, squirrel",Female,Panamanian,Red
+202,Peñarrubia,"Phascogale, red-tailed",Male,Hmong,Green
+203,Tuanshan,"Squirrel, malabar",Male,Indonesian,Yellow
+204,Cinagrog Girang,"Crane, brolga",Male,Chippewa,Khaki
+205,Goz Béïda,"Lory, rainbow",Female,Blackfeet,Indigo
+206,Yunluo,"Lemur, brown",Male,Osage,Purple
+207,Vladikavkaz,"Bat, little brown",Female,Chinese,Teal
+208,Bum Bum,Griffon vulture,Male,Houma,Pink
+209,Jinhua,Black-throated butcher bird,Male,Navajo,Purple
+210,Alcaria,"Hyena, striped",Male,Taiwanese,Crimson
+211,Lublin,Greylag goose,Female,Sri Lankan,Blue
+212,Longshi,Greater sage grouse,Female,Iroquois,Mauv
+213,Nemuro,"Bulbul, black-eyed",Male,Tlingit-Haida,Violet
+214,Tuzhai,Yellow-billed hornbill,Male,Uruguayan,Red
+215,Juzhen,"Gull, kelp",Female,Dominican (Dominican Republic),Pink
+216,Duru,"Boa, cook's tree",Male,Chilean,Teal
+217,Chorkówka,"Boubou, southern",Male,Cambodian,Pink
+218,Youfang,"Goose, cereopsis",Female,Crow,Mauv
+219,Miłosław,"Possum, pygmy",Female,Polynesian,Mauv
+220,Gevgelija,"Brocket, brown",Female,Delaware,Orange
+221,Mabini,"Owl, snowy",Female,Salvadoran,Pink
+222,Vitória da Conquista,Common brushtail possum,Male,South American,Violet
+223,Javhlant,Asian openbill,Female,Vietnamese,Puce
+224,Pinaring,"Deer, white-tailed",Male,Uruguayan,Yellow
+225,Librazhd,Mexican wolf,Male,Asian,Purple
+226,Brongkah,Little brown bat,Female,Malaysian,Green
+227,Hernani,"Monkey, bleeding heart",Male,Native Hawaiian and Other Pacific Islander (NHPI),Orange
+228,Banepa,Hanuman langur,Male,Black or African American,Fuscia
+229,Buga,"Cormorant, pied",Female,Indonesian,Mauv
+230,Pluak Daeng,"Goldeneye, barrows",Female,Paraguayan,Crimson
+231,Sinilian First,Brazilian otter,Female,Colombian,Green
+232,Ryki,"Vulture, king",Male,Osage,Violet
+233,Baoping,Arctic lemming,Male,South American,Yellow
+234,Capela,"Dolphin, bottle-nose",Male,Bangladeshi,Goldenrod
+235,Oefatu,American black bear,Male,Panamanian,Fuscia
+236,Ban Na,Gila monster,Male,Menominee,Turquoise
+237,Kotabumi,"Porcupine, african",Female,White,Maroon
+238,Lebedyn,Eleven-banded armadillo (unidentified),Female,Indonesian,Indigo
+239,Belén Gualcho,Ocelot,Male,Korean,Orange
+240,Huifa,Dama wallaby,Female,Cambodian,Red
+241,Charleville-Mézières,White-fronted capuchin,Male,Chilean,Indigo
+242,Shijie,Chital,Female,Crow,Mauv
+243,Gaplek,"Vulture, griffon",Female,Blackfeet,Violet
+244,Zhaoyuan,Blue-footed booby,Male,Native Hawaiian,Fuscia
+245,Zavrč,Salmon pink bird eater tarantula,Male,Venezuelan,Blue
+246,Pámfylla,Comb duck,Male,Vietnamese,Green
+247,Dongkeng,"Oryx, fringe-eared",Female,Mexican,Maroon
+248,São Raimundo Nonato,Cheetah,Female,Argentinian,Puce
+249,"Palmas De Gran Canaria, Las","Reedbuck, bohor",Female,Pueblo,Red
+250,Bang Mun Nak,"Crane, sarus",Female,Nicaraguan,Indigo
+251,Ocumare del Tuy,Rhesus monkey,Male,Kiowa,Red
+252,Oropós,Komodo dragon,Male,Taiwanese,Mauv
+253,Ermidas do Sado,Cattle egret,Female,Navajo,Maroon
+254,Ciudad Nueva,American bighorn sheep,Female,Central American,Khaki
+255,Saint-Gratien,"Turtle, snake-necked",Male,Osage,Aquamarine
+256,Jakusko,Civet cat,Male,Choctaw,Goldenrod
+257,Guiyang,"Vulture, black",Female,Houma,Purple
+258,Ejmiatsin,Savanna fox,Male,Colombian,Aquamarine
+259,San José de Ocoa,Southern hairy-nosed wombat,Female,Seminole,Blue
+260,Massenya,Two-toed tree sloth,Female,Potawatomi,Maroon
+261,Hope,"Owl, white-browed",Male,Alaska Native,Yellow
+262,Famagusta,Yellow baboon,Female,Chinese,Orange
+263,Laolong,Asian red fox,Female,Thai,Aquamarine
+264,Malkā,"Parakeet, rose-ringed",Male,Osage,Violet
+265,Tiandeng,Savanna baboon,Female,Korean,Aquamarine
+266,Ebak,"Crocodile, nile",Male,Asian,Orange
+267,Bulasa,"Wallaby, euro",Male,Micronesian,Mauv
+268,Nezamyslice,"Cobra, egyptian",Male,Spaniard,Fuscia
+269,Ainaži,Pine snake (unidentified),Female,Laotian,Goldenrod
+270,Ichuña,Gray heron,Female,Houma,Turquoise
+271,Groningen,"Butterfly, tropical buckeye",Male,Cheyenne,Yellow
+272,Dawu,Striped dolphin,Female,Apache,Orange
+273,Lujing Zhen,Red-shouldered glossy starling,Male,Native Hawaiian,Teal
+274,Wolometang,Savannah deer,Female,Yaqui,Aquamarine
+275,Kayar,"Tern, arctic",Female,Alaskan Athabascan,Pink
+276,La Roche-sur-Yon,"Tamandua, southern",Male,Creek,Teal
+277,Boro,"Bear, sloth",Male,Eskimo,Orange
+278,Oslo,"Vulture, turkey",Male,Paiute,Puce
+279,Verkhniy Landekh,Common long-nosed armadillo,Female,Micronesian,Teal
+280,Asamankese,Golden jackal,Male,Chinese,Mauv
+281,Cikulina,"Goose, greylag",Female,American Indian and Alaska Native (AIAN),Teal
+282,Kaolack,"Catfish, blue",Male,Guatemalan,Goldenrod
+283,Naguilian,"Cockatoo, slender-billed",Male,Black or African American,Mauv
+284,Nanshao,"Marmot, hoary",Female,Seminole,Orange
+285,Castañas,"Stork, woolly-necked",Male,Pima,Aquamarine
+286,Lisala,Gemsbok,Male,Pima,Blue
+287,Kardamás,European red squirrel,Male,Venezuelan,Green
+288,Manchester,Brown brocket,Male,Apache,Blue
+289,Santa Cruz,"Cobra, egyptian",Male,Bolivian,Puce
+290,Lérida,"Stork, black-necked",Male,Navajo,Maroon
+291,Chemerivtsi,Snowy sheathbill,Male,Peruvian,Mauv
+292,Penja,Bent-toed gecko,Female,Bangladeshi,Red
+293,Loma Alta,African red-eyed bulbul,Female,Native Hawaiian and Other Pacific Islander (NHPI),Violet
+294,Ryjewo,Egyptian goose,Female,Menominee,Indigo
+295,Solnechnyy,"Gull, herring",Female,White,Teal
+296,Ashcroft,Sarus crane,Male,Cheyenne,Crimson
+297,Gongqiao,"Stork, greater adjutant",Male,Pueblo,Indigo
+298,Przyborów,"Shrike, southern white-crowned",Male,Japanese,Blue
+299,Dagar,"Boa, mexican",Female,Latin American Indian,Blue
+300,Tuanjie,Sulfur-crested cockatoo,Female,American Indian,Indigo
+301,Long Beach,Raccoon dog,Male,Bangladeshi,Teal
+302,Baoluan,"Bird, magnificent frigate",Male,South American,Goldenrod
+303,Gastello,Yellow-billed stork,Female,Venezuelan,Aquamarine
+304,Nancha,Sage hen,Female,Houma,Yellow
+305,Nyanga,"Anteater, australian spiny",Male,Delaware,Red
+306,Vila Nova da Baronia,White-lipped peccary,Male,Nicaraguan,Teal
+307,Jiaotan,Brown lemur,Male,American Indian,Crimson
+308,Chantilly,Pied butcher bird,Female,White,Blue
+309,Wuxiang,"Woodpecker, red-headed",Male,Tohono O'Odham,Indigo
+310,Metz,Ring-tailed lemur,Female,Sioux,Goldenrod
+311,Ivot,"Bulbul, black-eyed",Male,Blackfeet,Goldenrod
+312,El Caño,"Otter, giant",Female,Korean,Yellow
+313,Tianjiaba,Red-billed buffalo weaver,Male,Paraguayan,Indigo
+314,Miami,Tsessebe,Female,Tongan,Red
+315,Huangjiakou,Meerkat,Male,Panamanian,Pink
+316,Kurye,"Cockatoo, long-billed",Male,Micronesian,Khaki
+317,Zlechov,"Possum, golden brush-tailed",Male,Peruvian,Red
+318,Kuala Lumpur,Ringtail,Male,Crow,Blue
+319,Zhugentan,"Dove, laughing",Female,Sri Lankan,Goldenrod
+320,Malko Tŭrnovo,Verreaux's sifaka,Female,Asian,Yellow
+321,Banakaja,"Lion, mountain",Male,Lumbee,Blue
+322,Sarongan,Yellow-headed caracara,Male,Colombian,Green
+323,Jiangmen,Asian elephant,Female,Kiowa,Yellow
+324,Ambanja,"Vulture, black",Male,Lumbee,Purple
+325,Buenaventura,"Rhinoceros, black",Female,Argentinian,Crimson
+326,Heredia,"Lion, southern sea",Male,Alaska Native,Violet
+327,Knyaginino,Asian lion,Male,Colville,Goldenrod
+328,Kutapanjang,"Vulture, white-headed",Male,Cherokee,Goldenrod
+329,Shangying,"Penguin, galapagos",Female,Tohono O'Odham,Puce
+330,Sukkozero,"Beaver, european",Female,Japanese,Pink
+331,Mezhdurechensk,"Seal, northern fur",Female,American Indian,Yellow
+332,Pontian,"Pigeon, feral rock",Male,Ute,Indigo
+333,Sŭngho 1-tong,"Squirrel, eastern fox",Female,Peruvian,Yellow
+334,Tireman Timur,"Magpie, black-backed",Male,Tlingit-Haida,Teal
+335,Bilao,"Dolphin, striped",Male,White,Fuscia
+336,Shuikou,Small-clawed otter,Female,Cree,Aquamarine
+337,Bin Yauri,Waved albatross,Female,Chamorro,Mauv
+338,Pelabuhanratu,"Ferret, black-footed",Male,Costa Rican,Yellow
+339,Kebonan,"Stork, greater adjutant",Female,Korean,Crimson
+340,La Paz,"Lion, galapagos sea",Female,Pakistani,Crimson
+341,Vysotsk,Goliath heron,Female,Comanche,Yellow
+342,Tushi,American Virginia opossum,Female,Ecuadorian,Teal
+343,Bugko,Kalahari scrub robin,Female,Chinese,Indigo
+344,Moravský Beroun,"Starling, cape",Male,Indonesian,Indigo
+345,Inyati,Pale-throated three-toed sloth,Male,Sri Lankan,Aquamarine
+346,Concepcion,"Cat, long-tailed spotted",Male,Malaysian,Puce
+347,Kantemirovka,Cuis,Female,Laotian,Teal
+348,Utsunomiya-shi,Green-winged macaw,Male,Bangladeshi,Orange
+349,Kamienna Góra,Giant armadillo,Male,Paiute,Mauv
+350,Gunung,Uinta ground squirrel,Female,White,Pink
+351,Västervik,Pocket gopher (unidentified),Female,Taiwanese,Teal
+352,Aelande,"Booby, blue-footed",Male,Ottawa,Indigo
+353,Baki,"Capuchin, weeper",Male,Black or African American,Yellow
+354,Masaran,"Lemur, ring-tailed",Female,Pueblo,Aquamarine
+355,Marseille,Rhesus macaque,Female,Indonesian,Turquoise
+356,San Mateo,"Goose, greylag",Male,Ute,Purple
+357,Hecun,"Spoonbill, white",Male,Native Hawaiian,Turquoise
+358,Singajaya,"Peccary, white-lipped",Male,Native Hawaiian and Other Pacific Islander (NHPI),Yellow
+359,Krajan Tanjungrejo,"Phalarope, grey",Female,Dominican (Dominican Republic),Aquamarine
+360,Kansas City,Painted stork,Female,Dominican (Dominican Republic),Orange
+361,Gwangjeok,Brown capuchin,Male,Paiute,Teal
+362,Villa La Angostura,Goliath heron,Male,Micronesian,Orange
+363,Taraš,South African hedgehog,Female,Uruguayan,Orange
+364,Shuanghe,Coqui francolin,Female,American Indian,Orange
+365,Al Qaţīf,"Fox, asian red",Male,American Indian,Maroon
+366,Sumberkemuning,Mountain goat,Female,Cheyenne,Maroon
+367,Lužani,"Iguana, land",Female,Thai,Red
+368,Hita,"Cormorant, neotropic",Male,Korean,Pink
+369,Perho,"Eagle, tawny",Male,Yaqui,Purple
+370,Rawson,"Gecko, tokay",Male,Bolivian,Pink
+371,Batambak,"Shrike, common boubou",Male,Kiowa,Pink
+372,Yoshkar-Ola,Striated heron,Female,Japanese,Turquoise
+373,Gombangan,Rufous-collared sparrow,Female,Guamanian,Maroon
+374,Neiba,Uinta ground squirrel,Male,Colville,Pink
+375,Winschoten,"Lizard, giant girdled",Female,Black or African American,Mauv
+376,Valença do Douro,Red-billed toucan,Female,Honduran,Green
+377,Adelaide,Tree porcupine,Female,Navajo,Indigo
+378,Rybache,"Skink, blue-tongued",Female,Delaware,Blue
+379,Bromölla,Netted rock dragon,Male,Colville,Mauv
+380,Victoria,Brolga crane,Female,Alaskan Athabascan,Yellow
+381,Kuleqi,Blue shark,Female,Seminole,Pink
+382,Shangyang,"Finch, common melba",Female,Black or African American,Khaki
+383,Mehron,Cape starling,Male,Potawatomi,Pink
+384,Barbacoas,Praying mantis (unidentified),Female,Ute,Green
+385,Alabug,"Bustard, denham's",Male,Chippewa,Puce
+386,Amagarapati,"Turaco, violet-crested",Male,Latin American Indian,Crimson
+387,Qacha’s Nek,"Flamingo, lesser",Male,Menominee,Purple
+388,Sukorejo,Asian openbill,Female,Cherokee,Fuscia
+389,Chavusy,"Skua, great",Female,Central American,Goldenrod
+390,Campos,"Heron, striated",Male,American Indian,Purple
+391,Ndewel,Yellow-throated sandgrouse,Female,Iroquois,Mauv
+392,Guacarí,"Bandicoot, southern brown",Male,Apache,Maroon
+393,Xingquan,"Thrasher, curve-billed",Female,Melanesian,Mauv
+394,Alajuela,Guanaco,Male,Chickasaw,Goldenrod
+395,Otaniemi,Racer snake,Female,Alaska Native,Teal
+396,Talmest,Indian giant squirrel,Female,Pima,Orange
+397,Tsaghkaber,"Pheasant, common",Male,Vietnamese,Blue
+398,Qal‘eh Ganj,"Crane, brolga",Female,Peruvian,Yellow
+399,Nkoteng,"Pintail, bahama",Male,Dominican (Dominican Republic),Teal
+400,Probolinggo,Black rhinoceros,Male,Shoshone,Purple
+401,Dom Pedro,"Lion, california sea",Male,Polynesian,Mauv
+402,Chanthaburi,"Tern, royal",Male,Vietnamese,Turquoise
+403,Springfield,Crab-eating raccoon,Female,Comanche,Crimson
+404,Shaoxing,White-throated monitor,Female,Shoshone,Red
+405,Atawutung,Malleefowl,Female,Dominican (Dominican Republic),Turquoise
+406,Obrera,"Kangaroo, brush-tailed rat",Female,Comanche,Aquamarine
+407,Stockholm,White-faced whistling duck,Male,Chickasaw,Puce
+408,Avellaneda,"Quail, gambel's",Female,Yaqui,Turquoise
+409,Hantai,Yellow-throated sandgrouse,Female,Delaware,Pink
+410,Kariaí,White-necked raven,Male,Choctaw,Maroon
+411,‘Ayn al ‘Arab,Ring-tailed lemur,Male,Guamanian,Khaki
+412,Tāklisah,Gulls (unidentified),Female,Ottawa,Crimson
+413,Wuluhan,Gecko (unidentified),Male,Eskimo,Teal
+414,Khvalynsk,"Stork, woolly-necked",Female,Kiowa,Aquamarine
+415,Changning,"Owl, australian masked",Male,Hmong,Blue
+416,Durham,"Capuchin, black-capped",Male,Yaqui,Orange
+417,Geoktschai,Common zorro,Male,Thai,Green
+418,Cheb,"Wagtail, african pied",Male,Kiowa,Crimson
+419,Sansanné-Mango,Eastern quoll,Male,Alaskan Athabascan,Orange
+420,Bryukhovychi,Mouflon,Male,Native Hawaiian,Puce
+421,Iturama,Masked booby,Male,Kiowa,Pink
+422,Mnelalete,Black-capped chickadee,Female,South American,Purple
+423,Pasirhaur,"Pigeon, wood",Male,Indonesian,Aquamarine
+424,Teixoso,Ocelot,Female,Korean,Orange
+425,Zdíkov,"Kingfisher, pied",Male,Apache,Mauv
+426,Suwon-si,"Fox, pampa gray",Female,Spaniard,Teal
+427,Taoyuan,American badger,Male,Cuban,Mauv
+428,Tuanchengshan,"Squirrel, antelope ground",Male,Puget Sound Salish,Goldenrod
+429,Jingxiyuan,Southern hairy-nosed wombat,Male,White,Teal
+430,Sitovo,Lapwing (unidentified),Male,Vietnamese,Crimson
+431,Nova Petrópolis,"Macaw, blue and yellow",Female,Paraguayan,Mauv
+432,Páchni,"Crane, stanley",Male,Yaqui,Teal
+433,Yongning,European shelduck,Female,Mexican,Turquoise
+434,Brnaze,"Woodcock, american",Male,Asian Indian,Maroon
+435,Shangyi,"Mongoose, yellow",Female,Houma,Yellow
+436,Nowe Brzesko,Kelp gull,Female,Kiowa,Mauv
+437,Dordrecht,"Leopard, indian",Female,Argentinian,Purple
+438,Atlanta,"Avocet, pied",Female,Osage,Green
+439,Mangere,Capybara,Female,Blackfeet,Goldenrod
+440,Lima Pampa,"Eagle, pallas's fish",Male,Cuban,Goldenrod
+441,Mawang,"Porcupine, african",Female,Ottawa,Maroon
+442,Lacombe,"Skink, african",Female,Latin American Indian,Mauv
+443,Donostia-San Sebastian,Emerald-spotted wood dove,Male,Korean,Aquamarine
+444,Cusco,Greater rhea,Female,Spaniard,Maroon
+445,Nackawic,"Hawk, ferruginous",Male,Guatemalan,Goldenrod
+446,Mādārīpur,Canadian tiger swallowtail butterfly,Female,Chickasaw,Green
+447,São Domingos do Maranhão,Eastern diamondback rattlesnake,Female,Dominican (Dominican Republic),Fuscia
+448,Taozhuang,"Legaan, water",Female,Taiwanese,Orange
+449,Lugulu,Red-tailed cockatoo,Male,Yuman,Goldenrod
+450,Carrigtwohill,"Partridge, coqui",Female,Sioux,Crimson
+451,Mataya,"Squirrel, eurasian red",Female,Panamanian,Red
+452,Slovenski Javornik,Blue duck,Female,Cuban,Fuscia
+453,Kubachi,"Gull, kelp",Male,Puget Sound Salish,Khaki
+454,Rasony,Black vulture,Female,Tohono O'Odham,Red
+455,Gävle,Steenbok,Female,Fijian,Violet
+456,Huangtan,"Zebra, plains",Female,Asian Indian,Blue
+457,Korfovskiy,Western grey kangaroo,Male,Menominee,Orange
+458,Xinzhou,Blue racer,Male,Nicaraguan,Indigo
+459,Sanjiao,Brown pelican,Male,Eskimo,Yellow
+460,Likupang,Squirrel glider,Male,Peruvian,Mauv
+461,Sukorejo,Ocelot,Male,Chilean,Maroon
+462,Lizhuangzi,"Glider, feathertail",Male,Choctaw,Pink
+463,Idenao,Blue-faced booby,Male,Kiowa,Orange
+464,Si Sa Ket,"Dolphin, striped",Female,American Indian and Alaska Native (AIAN),Pink
+465,Xiadong,Great white pelican,Male,South American,Crimson
+466,Qarqīn,Giant anteater,Female,Paiute,Blue
+467,Dawu Chengguanzhen,Gemsbok,Female,Choctaw,Green
+468,Cabangahan,Painted stork,Female,Cambodian,Blue
+469,Patzicía,"Heron, green",Female,Houma,Fuscia
+470,Tópaga,White-faced tree rat,Female,Japanese,Orange
+471,Beitou,"Owl, snowy",Female,Micronesian,Green
+472,Bontoc,Western lowland gorilla,Male,Navajo,Yellow
+473,Lajedo,"Toucan, white-throated",Female,Houma,Teal
+474,Mashui,"Bleu, red-cheeked cordon",Female,Alaskan Athabascan,Indigo
+475,Skorogoszcz,"Owl, great horned",Female,Pakistani,Pink
+476,Gengwan,Jabiru stork,Male,Samoan,Crimson
+477,Pointe-à-Pitre,Nyala,Male,Ottawa,Purple
+478,Niaojin,"Cobra, egyptian",Female,Comanche,Orange
+479,Lamam,"Pigeon, feral rock",Male,Latin American Indian,Fuscia
+480,Gornji Petrovci,"Swan, black",Male,Pakistani,Violet
+481,Morrison,Violet-crested turaco,Male,Menominee,Turquoise
+482,Svay Rieng,Cheetah,Female,Spaniard,Red
+483,Voskopojë,House sparrow,Female,Iroquois,Maroon
+484,Krajan Atas Suger Lor,"Marshbird, brown and yellow",Male,Panamanian,Aquamarine
+485,Sedandang,"Macaw, scarlet",Female,Chinese,Teal
+486,Powassan,White-necked raven,Female,Aleut,Crimson
+487,Bayonne,"Bear, black",Male,Cree,Orange
+488,Miami,"Cockatoo, sulfur-crested",Female,Bolivian,Green
+489,São Martinho de Árvore,"Salmon, sockeye",Female,Creek,Mauv
+490,Heidelberg,Asian water buffalo,Male,Colville,Aquamarine
+491,Wan’an,Kalahari scrub robin,Male,Potawatomi,Fuscia
+492,Jambuir Timur,"Lion, asian",Female,Bangladeshi,Maroon
+493,Szamotuły,North American river otter,Male,Chilean,Khaki
+494,Tumpang Satu,Common palm civet,Female,Delaware,Pink
+495,Bilopillya,"Snake, eastern indigo",Male,Pakistani,Mauv
+496,Xishanzui,American beaver,Female,Apache,Puce
+497,Alubijid,Savannah deer (unidentified),Female,Cuban,Maroon
+498,Hyesan-dong,Arctic hare,Male,Ute,Maroon
+499,Baishi,"Devil, tasmanian",Female,Samoan,Orange
+500,Hayes,"Flamingo, roseat",Female,Menominee,Purple
+501,Sangke,"Egret, snowy",Female,Osage,Goldenrod
+502,Guápiles,Green-winged trumpeter,Female,Native Hawaiian and Other Pacific Islander (NHPI),Green
+503,Zhangjiafang,Hyrax,Female,Salvadoran,Fuscia
+504,Wawrzeńczyce,"Gorilla, western lowland",Male,South American,Maroon
+505,Woja,"Hawk-eagle, crowned",Female,Venezuelan,Orange
+506,Al Jumūm,"Fox, north american red",Male,Creek,Pink
+507,Luna,Crested bunting,Female,Ecuadorian,Goldenrod
+508,Zhezqazghan,"Otter, giant",Female,Bolivian,Puce
+509,Agiásos,Galapagos albatross,Male,Creek,Red
+510,Nowy Dwór Gdański,Pampa gray fox,Female,Eskimo,Maroon
+511,Kayangel,Blue-breasted cordon bleu,Female,Native Hawaiian and Other Pacific Islander (NHPI),Pink
+512,Landázuri,Blue and yellow macaw,Male,South American,Purple
+513,Montongtebolak,"Skink, blue-tongued",Male,Tlingit-Haida,Indigo
+514,Wenquan,"Pelican, great white",Male,Spaniard,Orange
+515,San Antonio,Common genet,Female,Colombian,Teal
+516,El Coco,Common goldeneye,Female,Sri Lankan,Crimson
+517,Xuxiake,"Wolf, timber",Female,Sioux,Puce
+518,Murmuiža,Kelp gull,Male,White,Puce
+519,White River,Platypus,Male,Guamanian,Purple
+520,Dongming,"Hedgehog, south african",Female,Cree,Khaki
+521,Nanfeng,Russian dragonfly,Male,Panamanian,Turquoise
+522,Juntang,Swainson's francolin,Male,Yuman,Turquoise
+523,Saint-Laurent-du-Var,"Kingfisher, white-throated",Male,Colombian,Purple
+524,El Zapotal del Norte,"Admiral, indian red",Female,Cree,Goldenrod
+525,Anyuan,American bison,Female,Tohono O'Odham,Puce
+526,Guangpu,Small Indian mongoose,Male,Eskimo,Mauv
+527,Sumberkrajan,Anaconda (unidentified),Male,Chippewa,Yellow
+528,Dek’emhāre,"Booby, masked",Male,Cherokee,Pink
+529,Shaguotun,Red-winged blackbird,Female,Chilean,Purple
+530,San Jacinto,Slender loris,Female,American Indian,Teal
+531,Tierp,"Bear, sloth",Male,Colville,Maroon
+532,Nanwai,"Wagtail, african pied",Female,Salvadoran,Goldenrod
+533,Gaoshi,"Vulture, white-headed",Male,Chickasaw,Pink
+534,Nāḩiyat as Sab‘ Biyār,Ring-necked pheasant,Female,Ottawa,Orange
+535,Independencia,"Gnu, brindled",Female,Thai,Goldenrod
+536,Campanário,"Gull, swallow-tail",Male,Colville,Red
+537,Froly,"Beaver, american",Female,American Indian and Alaska Native (AIAN),Indigo
+538,Sovetsk,"Anteater, giant",Female,Cheyenne,Turquoise
+539,Saint-Avertin,Spotted-tailed quoll,Male,Creek,Aquamarine
+540,Tirapata,American buffalo,Male,Latin American Indian,Pink
+541,Miyoshi,Eastern indigo snake,Male,Sioux,Puce
+542,Si Racha,"Badger, eurasian",Male,Menominee,Fuscia
+543,Aţ Ţafīlah,"Kingfisher, white-throated",Male,Chamorro,Red
+544,Qingkenpao,"Crane, stanley",Male,Creek,Red
+545,Cache Creek,Capybara,Male,Micronesian,Pink
+546,Buliu,Black curlew,Female,White,Indigo
+547,København,"Kangaroo, red",Male,Comanche,Puce
+548,Laval,Platypus,Male,Guatemalan,Orange
+549,Līkak,Common seal,Male,Kiowa,Crimson
+550,Changping,Rhesus macaque,Female,Iroquois,Yellow
+551,Xhafzotaj,"Sparrow, rufous-collared",Male,Ottawa,Orange
+552,Binalbagan,Egyptian goose,Female,Puerto Rican,Orange
+553,Dengjiang,"Partridge, coqui",Female,Argentinian,Mauv
+554,Rognedino,Pallas's fish eagle,Female,Latin American Indian,Indigo
+555,Kafr Qūd,"Dog, black-tailed prairie",Male,Kiowa,Red
+556,Chixi,White-browed sparrow weaver,Female,Costa Rican,Pink
+557,Hangzhou,Secretary bird,Male,Crow,Green
+558,Laliki,Kongoni,Female,Alaska Native,Turquoise
+559,Duqiong,Asian openbill,Male,Laotian,Purple
+560,Baihua,Snowy sheathbill,Female,Melanesian,Aquamarine
+561,Qianxu Zhen,Red-legged pademelon,Female,Salvadoran,Green
+562,Cipari,"Cat, kaffir",Female,Spaniard,Teal
+563,Bizerte,Purple moorhen,Female,Central American,Crimson
+564,Plyussa,"Brocket, brown",Male,Menominee,Pink
+565,Arkalyk,Reindeer,Female,Kiowa,Maroon
+566,Āsbe Teferī,Spotted-tailed quoll,Female,Blackfeet,Crimson
+567,Angasmarca,Galapagos albatross,Female,Crow,Fuscia
+568,Amaigbo,Eurasian badger,Male,Filipino,Turquoise
+569,Paris 03,"Spurfowl, yellow-necked",Male,Navajo,Puce
+570,Vischongo,"Elk, Wapiti",Female,Menominee,Blue
+571,Xiatang,"Peccary, white-lipped",Female,Apache,Teal
+572,Gokwe,"Toucan, red-billed",Male,Samoan,Mauv
+573,Llacanora,Snake-necked turtle,Male,Central American,Teal
+574,Nanhu,Indian star tortoise,Female,Filipino,Violet
+575,Zeist,Bennett's wallaby,Male,Laotian,Pink
+576,Sheregesh,"Fowl, helmeted guinea",Female,Salvadoran,Goldenrod
+577,Madingou,Bare-faced go away bird,Female,Alaska Native,Violet
+578,Dabachang,"Bustard, stanley",Female,Colville,Orange
+579,San Vicente,"Gecko, bent-toed",Female,Central American,Khaki
+580,Bumbuna,"Bat, little brown",Female,Creek,Aquamarine
+581,Montalvão,"Mongoose, javan gold-spotted",Male,Samoan,Puce
+582,Calvão,"Turaco, violet-crested",Male,Ottawa,Pink
+583,Nacaome,"Gull, pacific",Male,Delaware,Yellow
+584,Oja,Eastern indigo snake,Male,South American,Yellow
+585,Mangere,"Otter, giant",Male,Peruvian,Orange
+586,Beiyang,"Seal, harbor",Female,Vietnamese,Khaki
+587,Las Vegas,Asian water dragon,Female,Tohono O'Odham,Fuscia
+588,Heyin,"Barbet, crested",Male,Puerto Rican,Goldenrod
+589,Guder,Common eland,Male,Houma,Orange
+590,Bin’an,"Kangaroo, brush-tailed rat",Male,Cambodian,Pink
+591,Suwatu,"Sheathbill, snowy",Female,Central American,Fuscia
+592,Ciakar,Ocelot,Male,Eskimo,Orange
+593,Obrera,"Starling, cape",Male,Creek,Indigo
+594,Asahikawa,"Macaw, blue and yellow",Male,Nicaraguan,Indigo
+595,Karangtengah,"Goose, snow",Female,Navajo,Indigo
+596,Clanwilliam,Hawk-headed parrot,Female,Panamanian,Goldenrod
+597,Conceição do Araguaia,"Oryx, fringe-eared",Male,Ecuadorian,Green
+598,Sātkhira,"Sloth, two-toed tree",Female,Uruguayan,Pink
+599,Konongo,Brown lemur,Male,Navajo,Orange
+600,Concepción del Uruguay,Black-fronted bulbul,Male,Shoshone,Mauv
+601,Umanggudang,"Wolf, mexican",Female,Spaniard,Red
+602,Pavlogradka,Jungle kangaroo,Female,Vietnamese,Indigo
+603,Ilhabela,Bushpig,Male,Cuban,Indigo
+604,Długosiodło,"Rhinoceros, white",Male,Cree,Mauv
+605,Dubki,Bald eagle,Female,Blackfeet,Red
+606,Jinqiao,"Cat, european wild",Female,Shoshone,Orange
+607,Potrerillos Arriba,Comb duck,Female,Lumbee,Mauv
+608,Toubao,"Otter, cape clawless",Female,South American,Red
+609,Krajan Dermawuharjo,"Mockingbird, galapagos",Female,Melanesian,Yellow
+610,Líně,"Racer, blue",Male,Melanesian,Yellow
+611,Babao,Sulfur-crested cockatoo,Female,Blackfeet,Puce
+612,Wuyang,"Wallaby, tammar",Male,Ute,Teal
+613,Tomilino,Lilac-breasted roller,Male,Osage,Blue
+614,Tam Bình,Large cormorant,Female,Osage,Teal
+615,Demir Hisar,"Turkey, wild",Male,Alaskan Athabascan,Maroon
+616,Dardhas,Denham's bustard,Male,Colville,Goldenrod
+617,General Vedia,White-winged dove,Male,Paiute,Yellow
+618,Bystré,"Nuthatch, red-breasted",Male,Blackfeet,Violet
+619,Temirtau,Civet (unidentified),Male,Hmong,Fuscia
+620,Santo Tomás,"Gecko, bent-toed",Male,Chinese,Turquoise
+621,Maninihon,Springbok,Male,Chippewa,Orange
+622,Uga,"Goose, andean",Female,Shoshone,Fuscia
+623,Bolondrón,"Cockatoo, sulfur-crested",Male,Asian,Aquamarine
+624,Candelaria,Striped skunk,Male,Chippewa,Goldenrod
+625,Ożarowice,Bee-eater (unidentified),Male,Sioux,Aquamarine
+626,Sever do Vouga,"Cardinal, red-capped",Male,Asian,Blue
+627,Pinellas Park,"Vulture, white-rumped",Female,Blackfeet,Aquamarine
+628,Tongyuanpu,Red sheep,Female,Taiwanese,Aquamarine
+629,Media Luna,"Viper, egyptian",Female,Asian Indian,Aquamarine
+630,Mosquée,Pied cormorant,Female,Houma,Green
+631,Keroka,"Porcupine, indian",Female,Iroquois,Maroon
+632,Obrera,Barking gecko,Female,Creek,Pink
+633,Alpatovo,Pygmy possum,Male,Asian Indian,Green
+634,Santa Cruz del Quiché,Dama wallaby,Female,Apache,Mauv
+635,Xia Dawo,Aardwolf,Female,Uruguayan,Maroon
+636,Huakoulongtan,"Duck, comb",Male,Korean,Purple
+637,Sundsvall,Magistrate black colobus,Female,Delaware,Pink
+638,Leleque,"Boubou, southern",Female,Creek,Fuscia
+639,Krajan Kidul Rojopolo,Javanese cormorant,Male,Houma,Khaki
+640,Yamethin,Chital,Male,Pima,Khaki
+641,Cassilândia,"Lizard, giant girdled",Female,Ottawa,Goldenrod
+642,Svatava,"Vulture, lappet-faced",Female,Taiwanese,Red
+643,Oakville,"Possum, common brushtail",Male,Kiowa,Puce
+644,Sut-Khol’,Mexican boa,Female,Indonesian,Teal
+645,Tejar,Roan antelope,Female,Japanese,Indigo
+646,Gammad,"Cormorant, pied",Male,Ecuadorian,Mauv
+647,General Emilio Aguinaldo,"Mynah, common",Female,Blackfeet,Turquoise
+648,Kurba,"Lizard, giant girdled",Male,Ute,Maroon
+649,Kertai,"Eagle, long-crested hawk",Male,Cree,Crimson
+650,Santa Helena,Bleeding heart monkey,Female,Cambodian,Purple
+651,Kacangan Lor,Common waterbuck,Male,Peruvian,Aquamarine
+652,Guangning,Black-fronted bulbul,Female,Taiwanese,Mauv
+653,Kete Krachi,Asian red fox,Female,Sri Lankan,Maroon
+654,Sacramento,"Peccary, white-lipped",Male,Navajo,Purple
+655,Energeticheskiy,Madagascar fruit bat,Female,Cuban,Crimson
+656,Talok,"Gazelle, thomson's",Female,Cherokee,Maroon
+657,Biao,Ferruginous hawk,Female,Tohono O'Odham,Maroon
+658,Portela,Kirk's dik dik,Female,Panamanian,Puce
+659,Binjai,Puma,Female,Alaska Native,Violet
+660,Inya,"Capuchin, brown",Female,Guatemalan,Indigo
+661,Miastko,Arctic tern,Female,Comanche,Green
+662,Uchkulan,Eastern white pelican,Male,Indonesian,Orange
+663,Barcarena,Land iguana,Female,Chickasaw,Maroon
+664,Savonranta,Common boubou shrike,Female,Taiwanese,Mauv
+665,Fīrūzābād,Ring-tailed lemur,Male,Chilean,Khaki
+666,Hoktember,Sarus crane,Female,Sioux,Blue
+667,Marteleira,"Francolin, swainson's",Female,Chinese,Maroon
+668,Takeshiken,Eastern indigo snake,Male,American Indian,Purple
+669,Rzozów,"Caiman, spectacled",Male,Bolivian,Purple
+670,Ilopango,"Peccary, white-lipped",Female,Bolivian,Purple
+671,Crossfield,Asian water dragon,Female,Sri Lankan,Aquamarine
+672,Podujeva,Gulls (unidentified),Female,Potawatomi,Maroon
+673,Gonayiv,Malabar squirrel,Female,Tohono O'Odham,Puce
+674,Pyrgetós,Gulls (unidentified),Male,Aleut,Fuscia
+675,Banqiao,Cape raven,Male,Samoan,Turquoise
+676,Stockholm,Sambar,Male,Guamanian,Teal
+677,Saseel,Eurasian hoopoe,Male,Lumbee,Turquoise
+678,Jbaïl,Verreaux's sifaka,Male,White,Indigo
+679,Fiães,"Flamingo, lesser",Female,Puerto Rican,Puce
+680,Stockholm,"Eagle, long-crested hawk",Female,Korean,Aquamarine
+681,Donim,Agile wallaby,Male,Cambodian,Blue
+682,Quintã,Woodrat (unidentified),Male,Fijian,Aquamarine
+683,Waiholo,Indian jackal,Male,Samoan,Red
+684,Kalmar,Pronghorn,Male,Asian,Turquoise
+685,Nanqiu,"Egret, cattle",Male,Menominee,Turquoise
+686,Deder,Brown and yellow marshbird,Female,Guatemalan,Violet
+687,Châtellerault,Warthog,Male,Paraguayan,Goldenrod
+688,San Carlos,Crown of thorns starfish,Female,Cree,Red
+689,Muaraenim,"Bat, asian false vampire",Male,Eskimo,Khaki
+690,Shibli,Guanaco,Male,Venezuelan,Goldenrod
+691,Ludwigshafen am Rhein,Blue peacock,Female,Bangladeshi,Crimson
+692,El Carmen,Roe deer,Male,Apache,Aquamarine
+693,Tanjungampalu,Red lava crab,Female,Ute,Fuscia
+694,Karakul’,"Wolf, common",Male,Fijian,Mauv
+695,Borovskoy,Black-eyed bulbul,Female,Salvadoran,Green
+696,Lühua,Giant otter,Female,Chamorro,Indigo
+697,Thawi Watthana,"Hyena, spotted",Male,Tongan,Orange
+698,Kotli Lohārān,Sun gazer,Male,Colombian,Mauv
+699,Bulahblangaro,Blacksmith plover,Female,Colville,Purple
+700,Jubao,Yellow-billed stork,Female,Nicaraguan,Mauv
+701,Kanash,Snowy sheathbill,Male,Cherokee,Violet
+702,Açucena,"Jackal, golden",Female,Filipino,Violet
+703,Louny,"Baboon, savanna",Female,Lumbee,Aquamarine
+704,Repatriación,"Gorilla, western lowland",Female,Apache,Violet
+705,Thị Trấn Mộc Châu,"Crane, black-crowned",Male,Cuban,Teal
+706,Kadubincarung,"Creeper, black-tailed tree",Female,Ecuadorian,Turquoise
+707,Ardirejo,Goanna lizard,Male,Filipino,Khaki
+708,Kamyshevka Vtoraya,"Phalarope, northern",Male,Osage,Orange
+709,Renko,Ground monitor (unidentified),Female,Mexican,Pink
+710,Benešov,"Gecko, barking",Female,Delaware,Red
+711,Apodi,"Lizard, desert spiny",Female,Korean,Goldenrod
+712,Sumberagung,Urial,Female,Puget Sound Salish,Purple
+713,Monchegorsk,White-throated monitor,Female,Shoshone,Red
+714,Kousa,"Reedbuck, bohor",Male,Argentinian,Teal
+715,Tempel,"Dik, kirk's dik",Female,Potawatomi,Mauv
+716,Jevremovac,"Gull, kelp",Female,Cheyenne,Red
+717,Soho,"Heron, giant",Male,Potawatomi,Goldenrod
+718,Pulopaya,"Iguana, marine",Male,Indonesian,Puce
+719,Lepaterique,Spectacled caiman,Female,Cuban,Orange
+720,Maliuzui,Puku,Female,Peruvian,Red
+721,Bonavista,"Stork, white",Male,Dominican (Dominican Republic),Yellow
+722,Fatou,Swamp deer,Female,Indonesian,Pink
+723,Himensulan,Sun gazer,Female,Houma,Green
+724,Huangzhai,White-faced whistling duck,Female,Tohono O'Odham,Teal
+725,Wushi,Glossy starling (unidentified),Female,Korean,Orange
+726,Dao,Chameleon (unidentified),Female,White,Purple
+727,Säffle,Sportive lemur,Female,Panamanian,Violet
+728,Leticia,American bison,Male,Colville,Violet
+729,Puerto Nariño,Civet cat,Male,Fijian,Purple
+730,Malbug,Cobra (unidentified),Female,Peruvian,Pink
+731,Niopanda,"Cat, jungle",Male,Alaska Native,Green
+732,Tours,Black-cheeked waxbill,Female,Menominee,Fuscia
+733,Novokayakent,Blue-tongued lizard,Male,Osage,Turquoise
+734,Caculé,"Bird, magnificent frigate",Male,Chilean,Orange
+735,Bochum,"Godwit, hudsonian",Male,Salvadoran,Blue
+736,Rashaant,Roseate cockatoo,Male,Native Hawaiian and Other Pacific Islander (NHPI),Puce
+737,Forquilhinha,"Wallaby, euro",Male,Ottawa,Blue
+738,Yiliu,"Dog, raccoon",Female,Central American,Teal
+739,As Sukhnah,Ferruginous hawk,Female,Korean,Orange
+740,Bromölla,Slender loris,Male,Apache,Red
+741,Dalang,Red-legged pademelon,Female,Lumbee,Teal
+742,Araguari,"Beaver, american",Male,Apache,Khaki
+743,Burnside,Gambel's quail,Male,Latin American Indian,Khaki
+744,Lons-le-Saunier,Australian magpie,Male,Guatemalan,Mauv
+745,Santiago de los Caballeros,Tyrant flycatcher,Male,Chickasaw,Teal
+746,Tabuk,Greater sage grouse,Female,Kiowa,Yellow
+747,Tmourghout,Ring-tailed coatimundi,Female,Menominee,Puce
+748,Tārūt,"Fox, savanna",Male,Kiowa,Red
+749,Brandýs nad Labem-Stará Boleslav,"Armadillo, giant",Male,Cherokee,Aquamarine
+750,Ji’ergele Teguoleng,White spoonbill,Male,Chippewa,Turquoise
+751,Mölndal,Chilean flamingo,Male,Tohono O'Odham,Teal
+752,Athy,"Phalarope, red-necked",Male,American Indian and Alaska Native (AIAN),Aquamarine
+753,Nurota Shahri,"Dragon, komodo",Female,Polynesian,Indigo
+754,Santana do Livramento,"Baboon, olive",Female,Bolivian,Red
+755,Corrego Grande,Dromedary camel,Female,Mexican,Puce
+756,Qibu,Currasow (unidentified),Male,Asian Indian,Crimson
+757,Al ‘Udayn,"Peacock, indian",Male,Costa Rican,Goldenrod
+758,Imider,"Dove, white-winged",Male,Pakistani,Maroon
+759,Dongqu,"Bustard, denham's",Female,Latin American Indian,Orange
+760,Munjul,Dromedary camel,Male,Colville,Turquoise
+761,Artybash,Gerenuk,Male,Pueblo,Green
+762,Kurunegala,Snowy sheathbill,Male,Cuban,Aquamarine
+763,Gavrilov-Yam,"Bear, black",Male,Potawatomi,Blue
+764,Ilovka,Olive baboon,Male,Guatemalan,Indigo
+765,Paços de Ferreira,Bonnet macaque,Male,Chilean,Violet
+766,Yaozhuang,Pine siskin,Female,Korean,Goldenrod
+767,Frutillar,Vicuna,Male,Guamanian,Purple
+768,Jiayuguan,"Rattlesnake, eastern diamondback",Male,Honduran,Puce
+769,Huji,Wolf spider,Female,Central American,Maroon
+770,Byera Village,Striped skunk,Male,Samoan,Red
+771,Chaowai,"Glider, squirrel",Female,Uruguayan,Violet
+772,Emiliano Zapata,Long-nosed bandicoot,Female,Eskimo,Pink
+773,Tigaon,King cormorant,Male,Thai,Violet
+774,Vardenik,Black vulture,Female,Asian,Blue
+775,Mikulášovice,Eastern white pelican,Female,Sri Lankan,Puce
+776,Loivos,Black-crowned night heron,Female,Polynesian,Puce
+777,Tadotsu,"Dolphin, bottle-nose",Female,Mexican,Orange
+778,Delson,"Wolf, timber",Male,Indonesian,Yellow
+779,Dalkey,Vervet monkey,Female,Polynesian,Indigo
+780,Králův Dvůr,Western pygmy possum,Female,Salvadoran,Indigo
+781,Ar Ramthā,Common langur,Female,Latin American Indian,Maroon
+782,El Puerto,"Weaver, red-billed buffalo",Female,Samoan,Turquoise
+783,Mihara,"Spoonbill, white",Female,White,Goldenrod
+784,Tebon,Sea birds (unidentified),Female,Guatemalan,Fuscia
+785,Vilares,"Possum, pygmy",Male,Yakama,Turquoise
+786,Mirebalais,"Gecko, bent-toed",Male,Yakama,Purple
+787,Wielbark,Roseate cockatoo,Female,Colville,Teal
+788,Xucheng,Common goldeneye,Male,Bolivian,Blue
+789,La Unión,Tiger cat,Male,South American,Violet
+790,Sirindhorn,Indian star tortoise,Male,Colville,Goldenrod
+791,Man,Greater blue-eared starling,Female,Native Hawaiian,Fuscia
+792,Hrvatini,"Squirrel, grey-footed",Male,Colombian,Blue
+793,Casal Novo,Striped skunk,Female,Vietnamese,Khaki
+794,Pucangkrajan,Asian openbill,Female,Malaysian,Maroon
+795,Yudai,Galapagos penguin,Male,Costa Rican,Blue
+796,Mobai,"Weaver, chestnut",Male,Chickasaw,Turquoise
+797,Fleury-les-Aubrais,"Beaver, eurasian",Female,Korean,Indigo
+798,Esparza,Arctic fox,Female,Kiowa,Red
+799,Banawang,Magistrate black colobus,Male,Native Hawaiian and Other Pacific Islander (NHPI),Goldenrod
+800,Maliang,Margay,Male,Eskimo,Puce
+801,Twante,Long-finned pilot whale,Male,Asian Indian,Pink
+802,Kalumpang,Common green iguana,Female,Comanche,Maroon
+803,Sekongkang Bawah,"Badger, honey",Male,Asian,Puce
+804,Huntington,Cobra (unidentified),Male,American Indian and Alaska Native (AIAN),Goldenrod
+805,Ponta Grossa,Tawny eagle,Female,Central American,Red
+806,Wum,"Racer, american",Female,Paiute,Turquoise
+807,Fylí,"Sheathbill, snowy",Female,Nicaraguan,Fuscia
+808,Karipidita,Western palm tanager (unidentified),Male,Bolivian,Maroon
+809,Yessentuki,Nyala,Male,Lumbee,Goldenrod
+810,Várzea,Tiger snake,Male,Indonesian,Blue
+811,Maquiapo,"Badger, american",Female,Eskimo,Violet
+812,Los Andes,Giant anteater,Female,Mexican,Red
+813,Kiltamagh,"Bandicoot, southern brown",Male,Bangladeshi,Teal
+814,Novalja,"Wallaby, red-necked",Male,Cambodian,Violet
+815,Basar,"Barbet, crested",Female,American Indian and Alaska Native (AIAN),Teal
+816,Zalishchyky,Black-footed ferret,Male,Nicaraguan,Mauv
+817,Grand Forks,"Crane, stanley",Male,Ecuadorian,Mauv
+818,Wieniawa,Royal tern,Male,Indonesian,Indigo
+819,Gonghe,"Possum, western pygmy",Male,Colombian,Aquamarine
+820,Clarines,Toddy cat,Female,Ecuadorian,Violet
+821,Mokil,"Crane, black-crowned",Male,Honduran,Aquamarine
+822,Zheleznodorozhnyy,Mouflon,Female,Asian Indian,Khaki
+823,Praia da Vitória,Black-winged stilt,Female,Pueblo,Aquamarine
+824,Ajaccio,Crimson-breasted shrike,Male,Cuban,Turquoise
+825,Rafael Perazza,"Robin, white-throated",Female,Peruvian,Mauv
+826,Glan,"Buffalo, american",Female,Colombian,Blue
+827,Horní Lideč,Galapagos mockingbird,Male,Chinese,Green
+828,Blois,"Goat, mountain",Male,Nicaraguan,Yellow
+829,Starokucherganovka,Bobcat,Female,Chickasaw,Turquoise
+830,Benito Juarez,"Possum, pygmy",Male,Creek,Goldenrod
+831,Uthai Thani,"Bulbul, african red-eyed",Female,Laotian,Violet
+832,Alvaro Obregon,"Owl, madagascar hawk",Male,Sri Lankan,Red
+833,Pueblo,"Trumpeter, dark-winged",Male,Navajo,Goldenrod
+834,Fufang,"Genet, common",Male,Seminole,Puce
+835,Gjilan,"Colobus, magistrate black",Female,Pakistani,Maroon
+836,Levin,"Siskin, pine",Female,Costa Rican,Goldenrod
+837,Rahayu Dua,Bee-eater (unidentified),Male,American Indian,Turquoise
+838,Rominimbang,Tawny eagle,Male,Hmong,Indigo
+839,Sunfang,"Insect, stick",Female,Yuman,Goldenrod
+840,Tampa,Black spider monkey,Male,Uruguayan,Teal
+841,Yanfolila,Australian pelican,Female,Bolivian,Red
+842,Bangbayang Kaler,"Waxbill, violet-eared",Male,American Indian and Alaska Native (AIAN),Turquoise
+843,Stochov,Genoveva,Male,Taiwanese,Crimson
+844,Dongchengyuan,"Heron, goliath",Female,Lumbee,Puce
+845,P’yŏngsŏng,North American beaver,Female,Alaskan Athabascan,Purple
+846,Baiguo,"Whale, killer",Male,Yaqui,Mauv
+847,Tanjung Pandan,"Cockatoo, roseate",Male,Comanche,Aquamarine
+848,Sahatsakhan,"Snake, green vine",Male,Native Hawaiian,Crimson
+849,Āgaro,Tasmanian devil,Male,Melanesian,Green
+850,Macroom,Green-backed heron,Female,Indonesian,Green
+851,Hà Tiên,White-cheeked pintail,Male,Thai,Goldenrod
+852,Krajan,Cape raven,Female,Salvadoran,Yellow
+853,Madrid,"Skink, african",Female,Micronesian,Khaki
+854,Bobowa,Huron,Female,Eskimo,Pink
+855,Bonn,Swamp deer,Female,Indonesian,Purple
+856,Vendas de Galizes,"Stork, yellow-billed",Female,Guatemalan,Crimson
+857,Pendawanbaru,African fish eagle,Male,South American,Purple
+858,Sendung,Gemsbok,Male,Apache,Blue
+859,Sukaratu,White-winged black tern,Female,Sioux,Maroon
+860,Querecotillo,"Whale, killer",Male,Ute,Goldenrod
+861,Malasin,Black-faced kangaroo,Male,Chamorro,Khaki
+862,Corujeira,Green vine snake,Female,Argentinian,Puce
+863,Azaruja,Common wolf,Female,White,Violet
+864,Shichuan,Little cormorant,Female,Vietnamese,Yellow
+865,Trelleborg,"Gazer, sun",Male,Laotian,Pink
+866,West Island,Wild boar,Male,Colville,Green
+867,Dnipryany,"Porcupine, north american",Female,Polynesian,Blue
+868,Magatos,Wood pigeon,Male,Black or African American,Yellow
+869,Ancasti,Ornate rock dragon,Male,Colville,Mauv
+870,Lamarosa,"Tortoise, asian foreset",Female,Choctaw,Puce
+871,Bejuco,"Goat, mountain",Female,Ottawa,Green
+872,Johor Bahru,"Tern, arctic",Male,Creek,Teal
+873,Gutang,Grey fox,Female,Puget Sound Salish,Crimson
+874,Teculután,Small Indian mongoose,Female,Melanesian,Maroon
+875,Kronshtadt,"Jackrabbit, white-tailed",Female,Polynesian,Indigo
+876,Dawang,White-browed owl,Female,Ute,Yellow
+877,Słupno,"Tamandua, southern",Female,Asian,Aquamarine
+878,Geputan,White-faced whistling duck,Female,Cheyenne,Puce
+879,Tourcoing,Pied cormorant,Male,Central American,Fuscia
+880,Qingxi,Burmese brown mountain tortoise,Female,Potawatomi,Teal
+881,Kasukabe,"Macaw, blue and yellow",Female,Native Hawaiian and Other Pacific Islander (NHPI),Teal
+882,Ekenäs,"Weaver, red-billed buffalo",Male,Native Hawaiian and Other Pacific Islander (NHPI),Indigo
+883,Welkom,Blue-tongued skink,Female,Puget Sound Salish,Turquoise
+884,Kharabali,"Boa, emerald green tree",Male,Tlingit-Haida,Khaki
+885,Phu Khiao,Sugar glider,Female,Ottawa,Yellow
+886,Lāmerd,Paca,Male,Honduran,Puce
+887,Zabrat,Black-backed jackal,Female,Peruvian,Puce
+888,Guilmaro,"Bandicoot, southern brown",Female,Guatemalan,Turquoise
+889,Mubi,Gray langur,Female,Korean,Goldenrod
+890,Mulong,"Fowl, helmeted guinea",Male,Malaysian,Yellow
+891,Soly,Argalis,Female,Native Hawaiian and Other Pacific Islander (NHPI),Green
+892,Yessentukskaya,Lesser mouse lemur,Male,Honduran,Turquoise
+893,Dodu Dua,Argalis,Female,Bangladeshi,Pink
+894,Alcoy,Long-billed cockatoo,Female,Colville,Turquoise
+895,Dunhou,Cuis,Female,Aleut,Turquoise
+896,Środa Wielkopolska,"Wallaby, red-necked",Male,Tongan,Maroon
+897,Wattegama,Southern black-backed gull,Female,South American,Yellow
+898,Daze,Netted rock dragon,Male,Puget Sound Salish,Violet
+899,Qincheng,"Bear, polar",Female,Crow,Red
+900,Rude,"Coatimundi, ring-tailed",Male,Comanche,Indigo
+901,Pirot,"Dragon, komodo",Male,Comanche,Indigo
+902,Belo sur Tsiribihina,"Snake, eastern indigo",Male,Chilean,Mauv
+903,Eenhana,Mountain lion,Male,Polynesian,Mauv
+904,Bisée,Burmese black mountain tortoise,Female,Navajo,Pink
+905,Rantau,Pied avocet,Male,Asian,Goldenrod
+906,Hienghène,Greater blue-eared starling,Male,Guatemalan,Khaki
+907,Domalanoan,"Crow, pied",Male,Asian Indian,Pink
+908,Klapagading,"Woodcock, american",Female,Filipino,Puce
+909,Boussé,Great egret,Male,Sri Lankan,Teal
+910,Santa Gertrudes,"Dunnart, fat-tailed",Female,White,Violet
+911,Caldas da Felgueira,"Cormorant, large",Male,Korean,Violet
+912,Buena Vista,"Pigeon, wood",Male,Navajo,Puce
+913,Calingcuan,Black-cheeked waxbill,Male,Asian,Green
+914,Osiek,"Elephant, asian",Male,Tohono O'Odham,Crimson
+915,Turbiv,Suricate,Female,Chickasaw,Red
+916,Zhemtala,"Ass, asiatic wild",Female,Nicaraguan,Puce
+917,Thị Trấn Nguyên Bình,Pied avocet,Male,Paraguayan,Violet
+918,Mingyuedian,Alpaca,Female,Cree,Mauv
+919,Křenovice,Blue-tongued lizard,Male,Black or African American,Khaki
+920,Kostyantynivka,Vine snake (unidentified),Female,Yakama,Pink
+921,Vailoa,"Shrike, southern white-crowned",Female,Puerto Rican,Turquoise
+922,Bečmen,"Partridge, coqui",Female,Yaqui,Blue
+923,Levandeira,Yellow-crowned night heron,Male,Filipino,Maroon
+924,Pagelaran,Superb starling,Male,Blackfeet,Crimson
+925,Kermānshāh,Pied cormorant,Female,White,Green
+926,Bayang,Ocelot,Male,Paiute,Mauv
+927,Tabuny,Malabar squirrel,Female,Eskimo,Blue
+928,Puńsk,"Swan, black",Female,Bolivian,Khaki
+929,Huiqi,Little blue penguin,Female,Eskimo,Mauv
+930,Salawu,"Cardinal, black-throated",Female,Nicaraguan,Maroon
+931,Itupeva,Sage hen,Female,Eskimo,Aquamarine
+932,Biao,Barrows goldeneye,Male,Central American,Mauv
+933,Pushkin,Bat-eared fox,Male,Asian Indian,Mauv
+934,Itagibá,"Cockatoo, slender-billed",Male,Cheyenne,Khaki
+935,Paidha,Ground legaan,Male,Yaqui,Khaki
+936,Sinmak,"Pheasant, common",Male,Yakama,Green
+937,Oakland,Elegant crested tinamou,Male,Menominee,Purple
+938,Blučina,Red-legged pademelon,Female,Tlingit-Haida,Crimson
+939,Cibeureum Satu,Brown and yellow marshbird,Male,Mexican,Indigo
+940,Manizales,Hanuman langur,Male,Cuban,Orange
+941,Tsagaanders,"Lion, australian sea",Female,Cheyenne,Fuscia
+942,El Cocuy,Black-fronted bulbul,Male,Nicaraguan,Maroon
+943,Amiens,"Gecko, ring-tailed",Female,Comanche,Red
+944,Lixi,"Anteater, giant",Male,Korean,Khaki
+945,Siqian,Indian tree pie,Male,Venezuelan,Orange
+946,Río Guayabal de Yateras,Dassie,Male,Venezuelan,Khaki
+947,Shilong,Hawk-headed parrot,Female,Argentinian,Teal
+948,Myhove,"Tortoise, desert",Female,Guatemalan,Fuscia
+949,Kota Bharu,"Siskin, pine",Female,Dominican (Dominican Republic),Violet
+950,Kostino,Common brushtail possum,Female,Salvadoran,Goldenrod
+951,Thiers,"Grouse, sage",Female,American Indian,Yellow
+952,Podporozh’ye,"Quail, gambel's",Male,Thai,Pink
+953,São Miguel de Machede,Weeper capuchin,Female,Central American,Green
+954,Pilníkov,Lesser masked weaver,Male,Puget Sound Salish,Red
+955,Yanji,Eastern grey kangaroo,Female,Spaniard,Maroon
+956,Guzhuyingzi,"Pelican, great white",Female,Venezuelan,Khaki
+957,Batatais,Steller's sea lion,Male,Korean,Yellow
+958,Miaoyu,"Boa, malagasy ground",Male,Fijian,Crimson
+959,Västervik,Golden brush-tailed possum,Female,Sri Lankan,Maroon
+960,Laoxialu,"Woodpecker, red-headed",Female,Seminole,Crimson
+961,Sussex,"Bird, pied butcher",Female,Menominee,Purple
+962,Gudja,Red-cheeked cordon bleu,Female,Delaware,Turquoise
+963,Bobojong,"Trumpeter, green-winged",Female,Taiwanese,Pink
+964,Whitwell,Tayra,Female,Argentinian,Orange
+965,Zopilotepe,Common wolf,Male,Menominee,Khaki
+966,Tamansari,Tsessebe,Female,Sioux,Goldenrod
+967,Atolina,"Beaver, eurasian",Male,Taiwanese,Pink
+968,Itaberaba,Roe deer,Male,Alaskan Athabascan,Yellow
+969,Kampungdesa,"Ibis, puna",Male,White,Puce
+970,Kalipare,Pine squirrel,Male,Polynesian,Aquamarine
+971,Acatenango,Crowned eagle,Male,Yaqui,Khaki
+972,Strellc i Epërm,"Baboon, savanna",Male,Taiwanese,Khaki
+973,Bailieborough,Yellow-billed stork,Female,Bangladeshi,Blue
+974,Gilowice,"Lizard, desert spiny",Female,Alaskan Athabascan,Puce
+975,Sremski Karlovci,Red-billed buffalo weaver,Female,Honduran,Fuscia
+976,Dubovka,Capybara,Female,Black or African American,Goldenrod
+977,Passos,"Buffalo, wild water",Female,Korean,Teal
+978,Wongsorejo,Bent-toed gecko,Male,Blackfeet,Indigo
+979,Şirvan,Black-throated butcher bird,Female,Yakama,Violet
+980,Maglaj,"Bandicoot, southern brown",Male,Pueblo,Fuscia
+981,Shuangxikou,"Pigeon, wood",Male,Alaska Native,Goldenrod
+982,Curuzú Cuatiá,"Siskin, pine",Male,Nicaraguan,Fuscia
+983,Lowayu,"Bandicoot, short-nosed",Female,Cuban,Khaki
+984,Shiqian,"Skunk, western spotted",Male,Uruguayan,Mauv
+985,Licupis,"Fox, pampa gray",Female,Salvadoran,Violet
+986,Hūn,Yellow-bellied marmot,Male,Peruvian,Yellow
+987,Princeville,White-bellied sea eagle,Female,Ute,Red
+988,Shuanglong,"Hoopoe, eurasian",Female,Taiwanese,Aquamarine
+989,Bourg-en-Bresse,Indian leopard,Female,Nicaraguan,Crimson
+990,Buenavista,Little brown dove,Male,Cree,Maroon
+991,Heqian,"Boa, cook's tree",Female,Native Hawaiian,Red
+992,São Bartolomeu,"Monitor, water",Male,Nicaraguan,Maroon
+993,Moroto,"Pie, rufous tree",Female,Yakama,Teal
+994,Sv. Anton,"Caiman, spectacled",Female,Sri Lankan,Puce
+995,Ostashkov,Koala,Male,Colville,Green
+996,Tuusniemi,White stork,Male,Aleut,Puce
+997,Las Parejas,"Rattlesnake, eastern diamondback",Male,Micronesian,Goldenrod
+998,Buliran,"Cat, african wild",Female,Fijian,Mauv
+999,Johor Bahru,Ocelot,Male,Micronesian,Turquoise
+1000,Pouso Alegre,Striped hyena,Female,Cherokee,Mauv
